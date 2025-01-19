@@ -130,7 +130,7 @@ public class Main {
                 archivio.stats();
                 break;
             case 0:
-                System.out.println("Shutdown...");
+                System.out.println("Scanner chiuso...");
                 scanner.close();
                 return;
             default:
